@@ -1,3 +1,8 @@
+# Here you can find an algorithm that simulates atoms in a 3D plan, and that apply to them energy, forces, pressure ...
+# This programm study the evolution of these atoms position while time goes by.
+# Atoms have oposit charges, some of them are linked to one another and form a polymer.
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 import numpy.random as random
